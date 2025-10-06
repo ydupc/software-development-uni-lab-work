@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../assets/banner.png" alt="Week Banner" width="100%" />
-</p>
-
 <h1 align="center">🧩 Week 2 – Variables, Operators, and Conditions</h1>
 
 <img src="../assets/learning_objectives.png" alt="Learning Objectives" width="100%" />
