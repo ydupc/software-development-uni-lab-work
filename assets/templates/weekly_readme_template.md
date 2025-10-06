@@ -1,8 +1,3 @@
-<!-- Top banner -->
-<p align="center">
-  <img src="../assets/banner.png" alt="Week Banner" width="100%" />
-</p>
-
 <h1 align="center">🧩 Week X – Title Goes Here</h1>
 
 <img src="../assets/weekly_pre_session_tasks.png" alt="Pre-Session Tasks" width="100%" />
