@@ -77,10 +77,16 @@ else:
 
 <img src="../assets/weekly_lab_notes.png" alt="Weekly Lab Notes" width="100%" />
 
-- Debugging syntax and runtime errors.
-- Practised integer vs float division.
-- Improved code readability and commenting.
-- Gained experience with conditionals and branching.
+- Fixed syntax errors in the original tax calculator program so it ran correctly.  
+- Updated the code to calculate 20% tax dynamically based on the item price.  
+- Added input for the number of items and calculated the total price.  
+- Tested different price and quantity combinations to confirm the output was correct.  
+- Worked on the **Leap Year** exercise and added an `else` condition for non-leap years.  
+- Extended the leap year code to compare the user’s birth year with my own.  
+- Experimented with integer vs. float division to understand the `int(1/2)` problem.  
+- Completed the **Fahrenheit → Celsius** and **Currency Converter** exercises.  
+- Attempted the **Maximum Number** task and started thinking through the sorting logic.  
+- Pushed my final working files to my GitHub classroom repository for submission.
 
 <img src="../assets/resources.png" alt="Resources" width="100%" />
 
