@@ -2,7 +2,6 @@
 
 <img src="../assets/weekly_pre_session_tasks.png" alt="Pre-Session Tasks" width="100%" />
 
-### 🧠 Pre-Session Tasks
 - Review lecture notes on variables, operators, and conditional logic.
 - Watch the “Intro to Python Variables” and “If Statements” mini-lectures.
 - Read through Week 1 reflection and prepare questions for Week 2.
