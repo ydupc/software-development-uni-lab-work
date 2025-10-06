@@ -62,7 +62,6 @@ else:
 <img src="../assets/weekly_tasks.png" alt="Weekly Tasks" width="100%" />
 
 ### 🧩 Stage 1 – Core Exercises
-- [ ] **Variable Declarations:** Identify valid, poor, and invalid variable names.
 - [ ] **Fix the Tax Calculator:**  
   Correct syntax, calculate 20% tax, ask for quantity, and display total:  
   `The price for 4 items is 57.60`
