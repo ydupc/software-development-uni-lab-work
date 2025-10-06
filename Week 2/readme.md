@@ -1,5 +1,13 @@
 <h1 align="center">🧩 Week 2 – Variables, Operators, and Conditions</h1>
 
+<img src="../assets/weekly_pre_session_tasks.png" alt="Pre-Session Tasks" width="100%" />
+
+### 🧠 Pre-Session Tasks
+- Review lecture notes on variables, operators, and conditional logic.
+- Watch the “Intro to Python Variables” and “If Statements” mini-lectures.
+- Read through Week 1 reflection and prepare questions for Week 2.
+- Install and test PyCharm or your preferred Python IDE.
+
 <img src="../assets/learning_objectives.png" alt="Learning Objectives" width="100%" />
 
 - Understand what variables are and how to use them.
@@ -53,26 +61,51 @@ else:
 
 <img src="../assets/weekly_tasks.png" alt="Weekly Tasks" width="100%" />
 
-- [ ] Rework the “tax calculator” to compute 20% tax and multiply by quantity.
-- [ ] Write a small program that prints the largest of three numbers.
-- [ ] Stretch: add input validation (reject non-numeric input).
+### 🧩 Stage 1 – Core Exercises
+- [ ] **Variable Declarations:** Identify valid, poor, and invalid variable names.
+- [ ] **Fix the Tax Calculator:**  
+  Correct syntax, calculate 20% tax, ask for quantity, and display total:  
+  `The price for 4 items is 57.60`
+- [ ] **Leap Year Checker:** Add conditions for leap year and same-year comparison.
+- [ ] **Integer Division:** Investigate `int(1/2)` issue and fix using floats.
+
+### 🧩 Stage 2 – Extended Tasks
+- [ ] **Temperature Conversion:** Convert Celsius → Fahrenheit (`F = C * (9/5) + 32`).
+- [ ] **Currency Conversion:** Convert between £ and $, allowing user input for exchange rate.
+- [ ] **Maximum Number:** Find the largest of 5 integers using `if` statements.
+- [ ] **Sorting Challenge:** Sort 5 integers using only `if` and `if-else` conditions.
 
 <img src="../assets/weekly_lab_notes.png" alt="Weekly Lab Notes" width="100%" />
 
-- Tested input casting with `int()` vs `float()`.
-- Noted integer division `//` vs true division `/`.
-- Common error: forgetting to convert `input()` to a number.
+- Debugging syntax and runtime errors.
+- Practised integer vs float division.
+- Improved code readability and commenting.
+- Gained experience with conditionals and branching.
+
+<img src="../assets/resources.png" alt="Resources" width="100%" />
+
+- Lecture Notes: *Week 2 – Variables, Operators, and Conditions*
+- Python Documentation: [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/)
+- Real Python: [Python Basics: Variables and Data Types](https://realpython.com/python-variables/)
 
 <img src="../assets/weekly_summary.png" alt="Weekly Summary" width="100%" />
 
 By the end of Week 2, you should be able to:
-- Store and manipulate user input with variables.
-- Perform mathematical and logical operations.
-- Use conditional statements to make decisions.
-- Write small, functional programs using control flow.
+- Store and manipulate data with variables.
+- Use arithmetic and logical operations.
+- Implement control flow using `if`, `elif`, and `else`.
+- Apply debugging to solve basic errors.
+- Structure simple interactive programs.
+
+<img src="../assets/weekly_post_session_tasks.png" alt="Post-Session Tasks" width="100%" />
+
+- Complete any unfinished Stage 2 exercises.
+- Refactor code for clarity (add comments, remove redundancy).
+- Push your final solutions to your GitHub repository before the next class.
+- Review feedback from your tutor and note key improvement points.
 
 <img src="../assets/weekly_reflection.png" alt="Weekly Reflection" width="100%" />
 
-- What went well?
-- What was tricky?
-- What will you try next week?
+- What concept clicked best this week?
+- Which part did you find most challenging?
+- What will you do to improve before Week 3?
