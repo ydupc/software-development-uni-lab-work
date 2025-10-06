@@ -1,4 +1,4 @@
-# 🧑‍💻 Software Development University Lab Work
+![Software Development Lab Work](banner.png)
 
 **Year:** One  
 
