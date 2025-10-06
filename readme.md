@@ -1,4 +1,4 @@
-![Software Development Lab Work](banner.png)
+![Software Development Lab Work](./assets/banner.png)
 
 **Year:** One  
 
