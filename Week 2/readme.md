@@ -1,6 +1,5 @@
 # 🧩 Week 2 – Variables, Operators, and Conditions
 
-**Module:** CO1404 / CO1456 – Introduction to Programming  
 **Topic:** Core Python concepts – Variables, Operators, and Conditional Logic  
 
 ---
