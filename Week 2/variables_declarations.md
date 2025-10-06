@@ -5,6 +5,7 @@ For each of the following variable declarations, decide if it is:
 * Invalid (The declaration has an error - it will not compile)
 
 ---
+### Answers
 
 1. numberStudents [INVALID]
 2. wall_length wall [INVALID]
