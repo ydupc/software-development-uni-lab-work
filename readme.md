@@ -3,6 +3,7 @@
 **Year:** One  
 
 > Some parts of this can be boooring since I have done this countless times before, however revisiting knowledge is always a good idea — so why not!
+> **Either way** this will contain all of my CS Software Development Lab work.
 
 ---
 
