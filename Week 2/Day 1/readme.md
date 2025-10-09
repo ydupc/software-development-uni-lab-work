@@ -1,4 +1,4 @@
-<h1 align="center">🧩 Week 2 – Variables, Operators, and Conditions</h1>
+<h1 align="center">🧩 Week 2 ``day 1`` – Variables, Operators, and Conditions</h1>
 
 <img src="../assets/weekly_pre_session_tasks.png" alt="Pre-Session Tasks" width="100%" />
 
