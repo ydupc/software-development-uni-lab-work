@@ -5,7 +5,7 @@
 - Review lecture notes on variables, operators, and conditional logic.
 - Watch the “Intro to Python Variables” and “If Statements” mini-lectures.
 - Read through Week 1 reflection and prepare questions for Week 2.
-- Install and test PyCharm or your preferred Python IDE.
+- Install and test PyCharm or your preferred Python IDE. (I am using VS Code instead since I'm petty :3 )
 
 <img src="../assets/learning_objectives.png" alt="Learning Objectives" width="100%" />
 
