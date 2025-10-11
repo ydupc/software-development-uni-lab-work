@@ -107,9 +107,3 @@ By the end of Week 2, you should be able to:
 - Refactor code for clarity (add comments, remove redundancy).
 - Push your final solutions to your GitHub repository before the next class.
 - Review feedback from your tutor and note key improvement points.
-
-<img src="../assets/weekly_reflection.png" alt="Weekly Reflection" width="100%" />
-
-- What concept clicked best this week?
-- Which part did you find most challenging?
-- What will you do to improve before Week 3?
