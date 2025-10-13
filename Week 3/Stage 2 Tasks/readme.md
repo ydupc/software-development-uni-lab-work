@@ -1,9 +1,8 @@
-# Stage One Tasks
+Stage 2 Tasks
 
-Refer to the **Week 3 task sheet.pdf** for detailed instructions.
+Stage 2 focuses on applying programming concepts learned so far. The tasks are designed to reinforce your understanding of:
 
-## Overview
-
-- Complete all activities listed under Stage One.
-- Ensure you understand the requirements before starting.
-- Document your progress and any challenges faced.
+- Control structures (if, else, loops)
+- Functions and modular code
+- Basic input/output
+- Problem-solving with code
