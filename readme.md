@@ -9,7 +9,9 @@
 
 <details>
   <summary><b>Week 1 – Introduction</b></summary>
-  General introduction to Python.
+
+  - General introduction to Python.
+  
 </details>
 
 <details>
@@ -19,4 +21,15 @@
   - Arithmetic and comparison operators  
   - Conditional statements (`if`, `elif`, `else`)  
   - Simple exercises and examples  
+</details>
+
+<details>
+  <summary><b>Week 3 – More Loops & User Input Validation</b></summary>
+
+  - Understand how to use and control `for` loops in Python.
+  - Learn how to validate both textual and numeric user input.
+  - Apply `try-except` blocks for safe error handling.
+  - Practice combining loops and conditionals for input validation.
+  - Use Python’s `calendar` and `datetime` libraries for real-world tasks.
+
 </details>
