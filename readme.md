@@ -19,5 +19,4 @@
   - Arithmetic and comparison operators  
   - Conditional statements (`if`, `elif`, `else`)  
   - Simple exercises and examples  
-
 </details>
