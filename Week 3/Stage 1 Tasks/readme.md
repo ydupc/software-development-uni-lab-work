@@ -1,8 +1,4 @@
-# Stage One Tasks
-
-Refer to the **Week 3 task sheet.pdf** for detailed instructions.
-
-## Overview
+## Stage 1 Tasks
 
 - Complete all activities listed under Stage One.
 - Ensure you understand the requirements before starting.
